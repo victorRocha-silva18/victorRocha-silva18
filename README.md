@@ -1,4 +1,4 @@
-# Olá! Eu sou o Víctor Rocha 👋
+# Olá! Eu sou o Víctor Rocha 
 
 ### Estudante de Ciência da Computação | Explorando o universo da tecnologia
 
@@ -8,7 +8,7 @@ Tenho interesse em desenvolvimento de software, programação, banco de dados e 
 
 ---
 
-## 💻 Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 **Linguagens e desenvolvimento**
 
@@ -25,7 +25,7 @@ Tenho interesse em desenvolvimento de software, programação, banco de dados e 
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - Ciência da Computação
 - Lógica de programação e algoritmos
@@ -35,7 +35,7 @@ Tenho interesse em desenvolvimento de software, programação, banco de dados e 
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
@@ -46,13 +46,13 @@ Tenho interesse em desenvolvimento de software, programação, banco de dados e 
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 Continuar desenvolvendo minhas habilidades, explorar diferentes áreas da tecnologia e construir projetos que contribuam para minha evolução acadêmica e profissional.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - **GitHub:** [@victorRocha-silva18](https://github.com/victorRocha-silva18)
 - **LinkedIn:** [Víctor Rocha da Silva](https://www.linkedin.com/in/victor-rocha-da-silva-11b85b305/)
